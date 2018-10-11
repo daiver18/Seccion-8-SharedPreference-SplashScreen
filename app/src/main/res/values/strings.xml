@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Loggy</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="remenber">Remenber</string>
+    <string name="button">Button</string>
+</resources>
